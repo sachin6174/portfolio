@@ -1,2 +1,4 @@
 # portfolio
-https://morning-lowlands-78457.herokuapp.com/
+build cmd => npm install
+run cmd => node server.js
+
